@@ -11,7 +11,8 @@ In this post we test the Rmd to github pages workflow.
 
 This is the first markdown test with github pages and jekyll.
 
-```
+
+```r
 library (data.table)
 
 set.seed(42)
@@ -20,6 +21,15 @@ testData <- data.table(matrix(runif(10, 0, 5), 5, 2))
 names(testData) <- c("var_0001", "var_0002")
 
 testData
+```
+
+```
+##    var_0001 var_0002
+## 1: 4.574030 2.595480
+## 2: 4.685377 3.682942
+## 3: 1.430698 0.673333
+## 4: 4.152238 3.284961
+## 5: 3.208728 3.525324
 ```
 And features some fancy plots
 
