@@ -5,6 +5,8 @@ title: R blogging workflow Test
 
 
 
+In this post we test the Rmd to github pages workflow.
+
 # First markdown document
 
 This is the first markdown test with github pages and jekyll.
@@ -22,6 +24,7 @@ testData
 And features some fancy plots
 
 ![plot of chunk pressure](../images/blogpost-pressure-1.png)
+
 # External Code Snippet
 
 
