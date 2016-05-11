@@ -121,5 +121,5 @@ Those highly correlated low-dimensional subspaces are not revealing any addition
 
 ### Source Code
 
-The code for creating data sets and the markup for this blogpost are [available on github] (https://github.com/holtri/dataGenerator).
+The code for creating data sets and the markup for this blogpost are [available on github](https://github.com/holtri/dataGenerator).
 
